@@ -138,7 +138,7 @@ El proyecto incluye múltiples funciones personalizadas organizadas en clases:
 ✅ **Archivo README.md**: Documentación completa del proyecto  
 ✅ **Uso de PyGame**: Implementación completa con PyGame (no PGZero)  
 
-## 👨‍💻 Autor
+## 👩🏻‍💻 Autora
 
 Proyecto desarrollado como trabajo práctico para demostrar el dominio de Python y PyGame, implementando conceptos avanzados de programación orientada a objetos y desarrollo de videojuegos.
 
