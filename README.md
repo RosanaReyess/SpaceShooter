@@ -140,7 +140,8 @@ El proyecto incluye múltiples funciones personalizadas organizadas en clases:
 
 ## 👩🏻‍💻 Autora
 
-Proyecto desarrollado como trabajo práctico para demostrar el dominio de Python y PyGame, implementando conceptos avanzados de programación orientada a objetos y desarrollo de videojuegos.
+Proyecto desarrollado como trabajo práctico para demostrar el dominio de Python y PyGame, implementando conceptos avanzados de programación orientada a objetos y desarrollo de videojuegos. 
+Desarrollado por: Rosana Reyes | Ingeniera de Software
 
 ---
 
